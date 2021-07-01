@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CII-Week2-calculator/static/css/main.a2426dae.chunk.css",
+    "main.js": "/CII-Week2-calculator/static/js/main.7b9a8346.chunk.js",
+    "main.js.map": "/CII-Week2-calculator/static/js/main.7b9a8346.chunk.js.map",
+    "runtime-main.js": "/CII-Week2-calculator/static/js/runtime-main.7be5f75a.js",
+    "runtime-main.js.map": "/CII-Week2-calculator/static/js/runtime-main.7be5f75a.js.map",
+    "static/js/2.aedaaab1.chunk.js": "/CII-Week2-calculator/static/js/2.aedaaab1.chunk.js",
+    "static/js/2.aedaaab1.chunk.js.map": "/CII-Week2-calculator/static/js/2.aedaaab1.chunk.js.map",
+    "index.html": "/CII-Week2-calculator/index.html",
+    "static/css/main.a2426dae.chunk.css.map": "/CII-Week2-calculator/static/css/main.a2426dae.chunk.css.map",
+    "static/js/2.aedaaab1.chunk.js.LICENSE.txt": "/CII-Week2-calculator/static/js/2.aedaaab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7be5f75a.js",
+    "static/js/2.aedaaab1.chunk.js",
+    "static/css/main.a2426dae.chunk.css",
+    "static/js/main.7b9a8346.chunk.js"
+  ]
+}
